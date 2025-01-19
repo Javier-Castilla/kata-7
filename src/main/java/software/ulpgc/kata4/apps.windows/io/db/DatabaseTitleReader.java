@@ -1,4 +1,4 @@
-package software.ulpgc.kata4.architecture.io.db;
+package software.ulpgc.kata4.apps.windows.io.db;
 
 import software.ulpgc.kata4.architecture.io.TitleReader;
 import software.ulpgc.kata4.architecture.model.Title;
@@ -8,8 +8,6 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
-import static java.sql.Types.*;
 
 
 public class DatabaseTitleReader implements TitleReader {

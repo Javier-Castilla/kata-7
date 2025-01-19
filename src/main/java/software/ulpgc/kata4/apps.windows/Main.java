@@ -5,7 +5,7 @@ import software.ulpgc.kata4.apps.windows.view.MainFrame;
 import software.ulpgc.kata4.architecture.control.ImportCommand;
 import software.ulpgc.kata4.architecture.control.ToggleCommand;
 import software.ulpgc.kata4.architecture.io.TitleReader;
-import software.ulpgc.kata4.architecture.io.db.DatabaseTitleReader;
+import software.ulpgc.kata4.apps.windows.io.db.DatabaseTitleReader;
 import software.ulpgc.kata4.architecture.io.tsv.MockBarchartLoader;
 import software.ulpgc.kata4.architecture.io.tsv.TsvFileTitleDeserializer;
 import software.ulpgc.kata4.architecture.io.tsv.TsvFileTitleReader;

@@ -1,7 +1,7 @@
 package software.ulpgc.kata4.architecture.control;
 
 import software.ulpgc.kata4.architecture.io.TitleWriter;
-import software.ulpgc.kata4.architecture.io.db.DatabaseTitleWriter;
+import software.ulpgc.kata4.apps.windows.io.db.DatabaseTitleWriter;
 import software.ulpgc.kata4.architecture.model.Title;
 import software.ulpgc.kata4.architecture.view.ImportDialog;
 import software.ulpgc.kata4.architecture.view.LoadingDisplay;

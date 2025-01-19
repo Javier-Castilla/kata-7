@@ -1,4 +1,4 @@
-package software.ulpgc.kata4.architecture.io.db;
+package software.ulpgc.kata4.apps.windows.io.db;
 
 import com.google.gson.Gson;
 import software.ulpgc.kata4.architecture.model.Title;
